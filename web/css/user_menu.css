@@ -1,0 +1,23 @@
+#user_menu ul
+{
+list-style-type:none;
+
+}
+
+#user_menu ul li
+{
+    float:left;
+margin-left:60px;
+margin-top: 15px;
+}
+#user_menu ul li a
+{
+ font-size: 17px;
+display: block;
+text-decoration: none;
+color:black;
+}
+#user_menu ul li a:hover
+{
+  color:green;  
+}

@@ -1,0 +1,23 @@
+#a_menu ul
+{
+list-style-type:none;
+
+}
+
+#a_menu ul li
+{
+    float:left;
+margin-left:35px;
+margin-top: -15px;
+}
+#a_menu ul li a
+{
+ font-size: 20px;
+display: black;
+text-decoration: none;
+color:black;
+}
+#a_menu ul li a:hover
+{
+  color:red;  
+}

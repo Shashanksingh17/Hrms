@@ -1,0 +1,215 @@
+#outer
+{
+ width: 1000px;
+ height: auto;
+ min-height: 1200px;
+ //border: 1px solid red;
+ border-radius: 20px;
+ margin: 0px auto;
+ //background-color: black;
+ 
+}
+#user_menu
+{
+    width: 1000px;
+    height: 50px;
+    background-color:aqua;
+    border-radius: 20px 20px 0px 0px;
+margin-top: -16px; 
+}
+
+#user_header
+{
+  width:1000px;
+  height: 150px;
+  margin-top: 4px;
+      
+}
+#user_logo
+{
+    width:150px;
+    height: 150px;
+    background-color: pink;
+    float: left;
+}
+#sitetitle
+{
+    width: 850px;
+    height:110px;
+    background-color: brown;
+    color: white;
+     float:right; 
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding-top: 40px;
+}
+#info
+{
+    width: 1000px;
+    height:80px;
+    background-color: skyblue;
+    margin-top: 5px;
+    
+}
+#date
+{
+    width: 500px;
+    height:60px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+    float:left;
+    color: white;
+    
+}
+#name
+{
+    width: 500px;
+    height:60px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+    float:left;
+    color: white;
+    
+}
+
+#user_container
+{
+    margin-top: 5px;
+     width: 1000px;
+   min-height:700px;
+  height: auto;
+    background-color: lightblue;
+   // border:1px solid;
+  background-image: url("../images/ba5.jpg")
+}
+#complainbox
+{
+height:250px;
+width:500px; 
+background-color:lightgrey;
+box-shadow:10px 10px grey;
+margin-left: 250px;
+padding-top: 50px;
+}
+#changepwdbox
+  {
+     height: 230px;
+     width: 630px;
+     background-color: lightgrey;
+     box-shadow: 10px 10px grey;
+     
+    padding-top: 70px;
+    
+    margin-left: 200px;
+    //border: 1px solid black;
+ }
+ #leavebox
+ {
+     height: 230px;
+     width: 500px;
+     background-color: lightgrey;
+    box-shadow: 10px 10px grey;
+  padding-top: 70px;
+  margin-left: 250px;
+    //border: 1px solid black;
+ }
+ #feedbackbox
+ {
+     height: 230px;
+     width: 600px;
+     background-color: lightgray;
+    padding-top: 70px;
+    margin-left: 200px;
+     box-shadow: 10px 10px grey;
+   // border: 1px solid black;
+ }
+ #postquestionbox
+ {
+     height: 200px;
+     width: 600px;
+     background-color: lightgray;
+     box-shadow: 10px 10px grey;
+    margin-top: 5px;
+    padding-top: 30px;
+    margin-left: 200px;
+    //border: 1px solid black;
+ }
+ #postquestionbox1
+ {
+     height: 500px;
+     width: 700px;
+     background-color: lightgray;
+     box-shadow: 10px 10px grey;
+    margin-top: 5px;
+    padding-top: 50px;
+    margin-left: 150px;
+    //border: 1px solid black;
+ }
+ #postanswerbox
+ {
+     height: 200px;
+     width: 600px;
+     background-color: lightgray;
+     box-shadow: 10px 10px grey;
+    margin-top: 5px;
+    padding-top: 30px;
+    margin-left: 200px;
+    //border: 1px solid black;
+ }
+ #viewanswerbox
+ {
+     height: 200px;
+     width: 600px;
+     background-color: lightgray;
+     box-shadow: 10px 10px grey;
+    margin-top: 5px;
+    padding-top: 30px;
+    margin-left: 200px;
+    //border: 1px solid black;
+ }
+
+#user_footer
+{
+  width: 1000px;
+    height:100px;
+    margin-top: 5px;  
+  // background-color: yellow;  
+}
+#copyright
+{
+  width: 500px;
+    height:80px;
+    font-size: 30px;
+    padding-top: 20px;
+    text-align: center;
+    color: white; 
+    background-color:skyblue;
+  border-radius: 0px 0px 0px 20px;
+    float: left;
+       
+}
+#developedby
+{
+    width: 500px;
+    height:80px;
+    font-size: 30px;
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+    background-color: skyblue;
+  border-radius: 0px 0px 20px 0px;
+    float: right;
+       
+}
+ 
+
+ 
+
+ 
+ 
+ 
+ 

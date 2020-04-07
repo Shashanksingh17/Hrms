@@ -1,0 +1,132 @@
+#a_outer
+{
+ width: 1000px;
+ height: 1200px;
+ //border: 1px solid red;
+ border-radius: 20px;
+ margin: 0px auto;
+ //background-color: black;
+ 
+}
+#a_menu
+{   
+    
+    width: 1000px;
+    height: 40px;
+    background-color: cyan;
+    border-radius: 20px 20px 0px 0px;
+    padding-top: 10px;
+}
+
+#a_header
+{
+  width:1000px;
+  height: 150px;
+ margin-top:10px;
+      
+}
+#a_logo
+{
+    width:150px;
+    height: 150px;
+    background-color: pink;
+    float: left;
+}
+#a_sitetitle
+{   
+    width: 850px;
+    height:120px;
+    background-color: brown;
+    color: white;
+     float:right; 
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding-top: 30px;
+}
+
+
+#a_container
+{
+    margin-top: 10px;
+     width: 1000px;
+  height: 860px;
+    background-color: lightblue;
+ 
+  
+}
+
+
+
+#a_footer
+{
+  width: 1000px;
+    height:150px;
+   
+    margin-top:  5px;  
+  background-color: skyblue;  
+}
+#a_lfooter
+{
+  width: 500px;
+    height:81px;
+    font-size: 30px;
+    padding-top: 19px;
+    text-align: center;
+    color: white; 
+   // background-color: red;
+  border-radius: 0px 0px 0px 20px;
+    float: left;
+       
+}
+#a_rfooter
+{
+    width: 500px;
+    height:80px;
+    font-size: 30px;
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+   // background-color: aqua;
+  border-radius: 0px 0px 20px 0px;
+    float: left;
+       
+}
+ 
+#adminhomebox
+ {
+     height: 200px;
+     width: 600px;
+     background-color: green;
+     border-radius: 20px;
+     background: rgba(0,0,.4,.3);
+    margin-top: 2px;
+    margin-left: 200px;
+    //border: 1px solid black;
+    padding-top: 10px;
+ }
+ #adddepartmentbox
+ {
+     height: 200px;
+     width: 600px;
+     background-color: green;
+     border-radius: 20px;
+     background: rgba(0,0,.4,.3);
+    margin-top: 2px;
+    margin-left: 200px;
+    //border: 1px solid black;
+    padding-top: 10px;
+ }
+ #changepaaswordbox
+ {
+     height: 250px;
+     width: 700px;
+     background-color: green;
+     border-radius: 20px;
+     background: rgba(0,0,.4,.3);
+    margin-top: 2px;
+    margin-left: 150px;
+    //border: 1px solid black;
+    padding-top: 5px;
+ }
